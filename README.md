@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)]()
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongDyHyeon)](https://github.com/HongDuHyeon/HongDuHyeon)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongDuHyeon)](https://github.com/HongDuHyeon/HongDuHyeon)
