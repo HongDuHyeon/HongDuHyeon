@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 <br>
 <br>
   
-<div width="120%">
+<div width="100%">
   
 [![HongDuHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongDuHyeon)](https://github.com/HongDuHyeon/HongDuHyeon)
-
 [![HongDuHyeon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HongDuHyeon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/HongDuHyeon/HongDuHyeon)
 </div>
