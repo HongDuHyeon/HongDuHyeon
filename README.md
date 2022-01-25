@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)]()
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)]()
 [![Tech](https://img.shields.io/badge/Tech_Blog-4FC08D?style=flat-square&logoColor=white)](https://velog.io/@hongduhyeon)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)]()
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)]()
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongDyHyeon)](https://github.com/HongDuHyeon/HongDuHyeon)
