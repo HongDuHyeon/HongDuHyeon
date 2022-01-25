@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+I will be evolving Front-End Developer 🔥
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=🎉DuHyeon%20Git%20Hub🎉&fontSize=70)
 
 [![HTMl5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)]()
