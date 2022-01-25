@@ -1,9 +1,5 @@
 ### Hi there 👋
-<style>
-    .container-lg{
-        max-width: 1200px;
-    }
-</style>
+
 <!--
 **HongDuHyeon/HongDuHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&align=center&section=header&text=🎉DuHyeon%20Git%20Hub🎉&fontSize=70" style="width:100%" align="center">
-![header]()
+
 
 <br>
 
