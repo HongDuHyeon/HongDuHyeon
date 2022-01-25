@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<style>
+    .container-lg{
+        max-width: 1200px;
+    }
+</style>
 <!--
 **HongDuHyeon/HongDuHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&align=center&section=header&text=🎉DuHyeon%20Git%20Hub🎉&fontSize=70" style="width:100%" align="center">
+![header]()
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=🎉DuHyeon%20Git%20Hub🎉&fontSize=70)
+<br>
 
-I will be evolving Front-End Developer 🔥
+## <div align="center">I will be evolving Front-End Developer 🔥</div>  
 
 [![HTMl5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)]()
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
