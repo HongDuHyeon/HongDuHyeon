@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋<br/><br/>
+### *<p align="center">본인을 너무 믿지 말고 메모와 기록을 하는 습관을 갖자 🔥</p>*
 
 <!--
 **HongDuHyeon/HongDuHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
