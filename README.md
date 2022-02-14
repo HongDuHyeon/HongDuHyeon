@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋<br/><br/>
 -->
-### *<p align="center">본인을 너무 믿지 말고 메모와 기록을 하는 습관을 갖자 🔥</p>*
+
 
 <!--
 **HongDuHyeon/HongDuHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&align=center&section=header&text=🎉DuHyeon%20Git%20Hub🎉&fontSize=70" style="width:100%" align="center">
 
+### *<p align="center">본인을 너무 믿지 말고 메모와 기록을 하는 습관을 갖자 🔥</p>*
 
 <br>
 
