@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&align=center&section=header&text=🎉DuHyeon%20Git%20Hub🎉&fontSize=70" style="width:100%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&align=center&section=header&text=🎉%20DuHyeon%20Git%20Hub%20🎉&fontSize=70" style="width:100%" align="center">
 
 ### *<p align="center">본인을 너무 믿지 말고 메모와 기록을 하는 습관을 갖자 🔥</p>*
 
