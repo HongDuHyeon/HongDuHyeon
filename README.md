@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&align=center&section=header&text=🎉%20DuHyeon%20Git%20Hub%20🎉&fontSize=70" style="width:100%" align="center">
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Duhyeon's%20Github%20🙌🏻&fontSize=50)
+![Duhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongDuHyeon&show_icons=true&theme=dracula)
 
-### *<p align="center">본인을 너무 믿지 말고 메모와 기록을 하는 습관을 갖자 🔥</p>*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongDuHyeon)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
