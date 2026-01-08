@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Duhyeon's%20Github%20🙌🏻&fontSize=50)
-![Duhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongDuHyeon&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongDuHyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>
